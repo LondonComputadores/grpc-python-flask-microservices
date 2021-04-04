@@ -104,6 +104,8 @@ celerybeat.pid
 # Environments
 .env
 .venv
+.grpc
+.vscode
 env/
 venv/
 ENV/
