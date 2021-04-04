@@ -11,7 +11,7 @@ gRPC is a modern open source high performance Remote Procedure Call (RPC) framew
 - $ python -m pip install -r requirements.txt
 - $ python -m grpc_tools.protoc -I ../protobufs --python_out=. \
             --grpc_python_out=. ../protobufs/recommendations.proto
-- $ 
+- $ see more of the rest of the commands used in this project on the realpython link in the reference section below!
 
 ### References:
 
